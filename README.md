@@ -1,6 +1,6 @@
 # Google-Interview-Question-2
 
-I recently go throught Google's Interview. This is one of Interview Question.
+I recently go through Google's Interview. This is one of Interview Question.
 
 I copied this question' TEXT from "https://geraldo1993.github.io/blog/Google-Interview-Q3/". But just the Question's Text because I forgot how they asked in interview but I am sure that they asked this same one. I was not able to solved it in interview but I solved ot on same day.
 
